@@ -4,7 +4,7 @@ My first repository
   <head>
   </head>
     <body>
-      <h1> My favourite series </h1>
+      <center> <h1> My favourite series </h1> </center>
       <p>
 - [x] Alice in Borderland
 - [x] Squid Game
