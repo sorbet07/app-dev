@@ -9,10 +9,10 @@ My first repository
       <li> Alice in Borderland </li>
 <p> is a 2020 Japanese science fiction thriller drama streaming television series based on the manga by Haro Aso. </p>
  
-      <li> Alice in Borderland </li>	<li> Squid Game </li> 
+<li> Squid Game </li> 
 <p> a South Korean survival drama television series created by Hwang Dong-hyuk for Netflix. </p>
 
-	<li> Wednesday </li> 
+<li> Wednesday </li> 
 <p> an American coming-of-age supernatural comedy horror television series based on the character Wednesday Addams by Charles Addams.</p>
 	
 </ol>      
